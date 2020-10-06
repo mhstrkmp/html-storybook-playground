@@ -1,0 +1,18 @@
+.tile {
+  min-width: 162px;
+  min-height: 118px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.description {
+}
+
+.tile-classical {
+  background-image: url("../../assets/piano.png");
+}
