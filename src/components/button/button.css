@@ -1,6 +1,7 @@
 .btn {
   border-radius: 20px;
   font-size: 0.8rem;
+  background-color: #383b49;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -16,4 +17,8 @@
 
 .btn-primary {
   background-image: linear-gradient(#ed8770, #d9519d);
+}
+
+.btn-secondary {
+  border: 1px solid #fff;
 }
