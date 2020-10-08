@@ -3,7 +3,7 @@
   min-height: 118px;
   background-repeat: no-repeat;
   background-size: 100% auto;
-  color: white;
+  color: var(--primary-text-color);
   display: flex;
   flex-direction: column;
   justify-content: center;
